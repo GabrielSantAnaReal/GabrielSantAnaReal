@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielSantAnaReal
 - 📓 I am a student of Business Administration, with good interest on the technology area
-- 👀 I’m interested in data science, A.I., Information Technology, Hardware and some business related topics.
+- 👀 I’m interested in data analysis, data science, hardware and some business related topics.
 - 🌱 I’m currently learning Python, GNU/Linux and SQL.
 - 📫 How to reach me:
      -> LinkedIn: https://www.linkedin.com/in/gabrielsantana99/
