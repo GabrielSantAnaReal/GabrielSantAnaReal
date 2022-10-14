@@ -8,4 +8,4 @@
 
 
 # Some stats:
-![GabrielSantAnaReal Status](https://github-readme-stats.vercel.app/api?username=GabrielSantAnaReal&show_icons=true)
+![GabrielSantAnaReal Status](https://github-readme-stats.vercel.app/api?username=GabrielSantAnaReal&theme=dark&show_icons=true)
