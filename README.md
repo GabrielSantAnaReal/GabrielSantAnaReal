@@ -5,7 +5,3 @@
 - 🌱 I’m currently learning Python, GNU/Linux and SQL.
 - 📫 How to reach me:
      -> LinkedIn: https://www.linkedin.com/in/gabrielsantana99/
-
-
-# Some stats:
-![GabrielSantAnaReal Status](https://github-readme-stats.vercel.app/api?username=GabrielSantAnaReal&theme=dark&show_icons=true)
